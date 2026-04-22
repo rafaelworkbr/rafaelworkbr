@@ -30,7 +30,6 @@ Sou um entusiasta da tecnologia apaixonado por criar soluções inteligentes e e
 
 ---
 
-### 📫 Vamos nos conectar?
 
 Dê uma olhada no meu trabalho ou entre em contato para trocarmos uma ideia sobre desenvolvimento de sistemas:
 
